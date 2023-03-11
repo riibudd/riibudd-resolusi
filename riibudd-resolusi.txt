@@ -2,3 +2,4 @@ RIBUDD RESOLUSI
 - Konsisten belajar coding
 - Konsisten belajar Laravel
 - Konsisten belajar git
+- Konsisten belajar MySql
