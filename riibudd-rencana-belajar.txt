@@ -3,5 +3,7 @@ RENCANA BELAJAR RIIBUDD
 - JAVASCRIPT
  *Studi kasus TodoList
  *ASYNC
+  ^ Vue
 - DATABASE MYSQL
 - Google Sheet
+- css
