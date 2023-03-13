@@ -1,8 +1,10 @@
 RENCANA BELAJAR RIIBUDD
 - GIT
 - JAVASCRIPT
- *Studi kasus TodoList
- *ASYNC
-- DATABASE MYSQL
-- Google Sheet
+  *Studi kasus TodoList
+  *Frame Work
+- Struktur Data Dasar
+- PHP Frameworks
+- Interview
+- Vlogs
 
