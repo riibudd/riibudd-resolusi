@@ -3,10 +3,12 @@ RENCANA BELAJAR RIIBUDD
 - JAVASCRIPT
   *Studi kasus TodoList
   *Frame Work
-   ^ Angular
+   ^ vue
    ^ React
+- Struktur Data Dasar
 - PHP Frameworks
-  * Laravel
+   ^ Laravel
 - Interview
 - Vlogs
+- Pyhton
 
