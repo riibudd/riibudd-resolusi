@@ -4,6 +4,7 @@ RENCANA BELAJAR RIIBUDD
  *Studi kasus TodoList
  *ASYNC
   ^ Vue
+  ^ React
 - DATABASE MYSQL
 - Google Sheet
 - css
